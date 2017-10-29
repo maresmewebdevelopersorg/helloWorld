@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: helloWorld2
+    thymeleaf:
+        cache: false
+        mode: HTML
+server:
+    port: 8080
